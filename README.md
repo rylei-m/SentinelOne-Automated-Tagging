@@ -1,1 +1,1 @@
-# SentinelOne-Automated-Tagging
+# Sentinel One Automated Tagging
